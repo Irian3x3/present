@@ -1,0 +1,10 @@
+# --- things that do not need to be uploaded ---
+dist/
+node_modules/
+package-lock.json
+# the token yk
+token.ts
+
+# --- unfinished stuff ---
+# actually `commands/giveaway`
+giveaway
